@@ -7,6 +7,13 @@ x <- 10 # initialize numeric variable x
 y <- 2  # initialize numeric variable y
 summ <- x + y   # add two numeric variables
 diff <- x - y   # difference two numeric variables
-
+prod <- x * y   # product of two numeric variables
+divi <- x / y   # dividing two numeric
+square <- x ^ 2   # square of a numeric variable
+cube <- x ^ 3   # cube of a numeric variable
+sqroot <- x ^ 0.5 # square root of a numeric variable
+cuberoot <- x ^ (1/3) # cube root of a numeric variable
+intdiv = 10 %/% 3 # integer division of two variables
+modulo = 10 %% 3 # modulus of two variables
 ```
 
