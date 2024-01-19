@@ -1,0 +1,4 @@
+# INTRODUCTION TO R PROGRAMMING
+## By Isaack Okwaro Nyagweso
+### Section 1 - Variables & Mathematical Operators
+This section 
