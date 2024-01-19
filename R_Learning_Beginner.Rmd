@@ -1,4 +1,12 @@
 # INTRODUCTION TO R PROGRAMMING
 ## By Isaack Okwaro Nyagweso
 ### Section 1 - Variables & Mathematical Operators
-This section 
+This section discusses how to create variables and mathematical operations in R.
+```{r}
+x <- 10 # initialize numeric variable x
+y <- 2  # initialize numeric variable y
+summ <- x + y   # add two numeric variables
+diff <- x - y   # difference two numeric variables
+
+```
+
